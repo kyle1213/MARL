@@ -1,1 +1,3 @@
-"아주대 23-1 자기주도연구1" 
+Ajou Univ. 23-1 self-directed research
+
+topic: global optimum search on 3d graph with MARL
